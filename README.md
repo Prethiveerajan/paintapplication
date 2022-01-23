@@ -222,8 +222,12 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT 1 (without sketch):
+![otp](https://user-images.githubusercontent.com/94233064/150671069-2c034786-592c-4ba0-8570-53fef517e927.png)
+
 
 ## OUTPUT 2 (with sketch):
+![otg](https://user-images.githubusercontent.com/94233064/150671076-5c753f7f-bb27-481a-aaa0-ee0097500e6b.png)
+
 
 
 ## Result:
