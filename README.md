@@ -49,9 +49,7 @@ Publish the website in the given URL.
           <div class="da">
             <div class="text">
           <center>
-            <marquee behavior="scroll" direction="left" scrollamount="12"><h1>Paint Application  Designed  by
-                
-                      PRETHIVEE RAJAN</h1><br>
+            <marquee behavior="scroll" direction="left" scrollamount="12"><h1>Paint Application  Designed  by PRETHIVEE RAJAN</h1><br>
             </marquee>
             </center> 
         </div>
