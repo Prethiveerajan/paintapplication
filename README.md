@@ -35,6 +35,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -220,6 +221,7 @@ Publish the website in the given URL.
      <br>
   </body>
 </html>
+```
 
 ## OUTPUT 1 (without sketch):
 
